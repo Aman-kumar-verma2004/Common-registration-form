@@ -1,0 +1,29 @@
+
+
+
+.container h2{
+    text-align: center;
+   color: white;
+}
+.container{
+    box-shadow: 1px 1px 10px black;
+    width: 500px;
+    margin-top: 40px;
+    background-color: rgba(0, 0 , 0, 0.8);
+}
+.col-12 button{
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+.col-12 label{
+    color: white;
+}
+.col-md-6 label{
+    color: white;
+}
+.col-md-4 label{
+    color: white;
+}
+.col-md-2 label{
+    color: white;
+}
